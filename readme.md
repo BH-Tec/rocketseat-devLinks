@@ -13,6 +13,10 @@
   <a href="#-license">📝 License</a>
 </p>
 
+<p align="center">
+  <img src="./assets/preview.png">
+<p>
+
 ## 💻 Projeto
 
 Repositorio para projeto do "DevLinks" da Rocketseat.
